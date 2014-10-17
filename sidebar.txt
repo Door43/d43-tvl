@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tvl:home|Door43 (tvl)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tvl|d43-tvl repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tvl/archive/master.zip|d43-tvl.zip]]
+
+**Recent Changes**
+{{changes>ns = tvl}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tvl|Ethnologue data]]
+
